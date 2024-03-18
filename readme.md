@@ -1,4 +1,4 @@
-# Authentication App with JWT and bcrypt
+# Authentication App
 
 This application is a full-stack authentication app built using MongoDB, Express, React, and Node.js. The frontend is developed with Vite React bundler, and the backend includes models, controllers, routes, helpers, and an environment file with dependencies. The app features three pages: home, login, and register, allowing users to register with name, email, and password, and login with email and password. Upon successful login, users are greeted with a personalized message on the dashboard.
 
